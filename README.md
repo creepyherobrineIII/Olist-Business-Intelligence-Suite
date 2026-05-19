@@ -5,6 +5,6 @@ An end-to-end business intelligence suite for the Brazilian E-commerce company O
 - Developing Python-based automated data validation scripts to identify schema and formatting inconsistencies, alongside impact analysis of each task.
 - **Strategic Goal (Work in Progress)**: Generate reports in Power BI with actionable insights and suggestions for each problem area from in-depth analysis, alongside clean data for statistical modelling and predictive analysis
 
-- Jupyter Notebook can be found in the *"Clean Docs"* folder.
-
 Current task(s): Checking data integrity of the orders table
+
+- Jupyter Notebook can be found in the *"Clean Docs"* folder.
