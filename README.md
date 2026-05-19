@@ -1,2 +1,4 @@
-# Olist-Business-Intelligence-Suite
-An end-to-end business intelligence suite for the Brazilian E-commerce company Olist, based on order data from the years 2016 to 2018 (incl.). {In Progress} 
+# Olist-Business-Intelligence-Suite {In Progress}
+An end-to-end business intelligence suite for the Brazilian E-commerce company Olist, based on order data from the years 2016 to 2018 (incl.). 
+
+Current task(s): Checking data integrity of the orders table
